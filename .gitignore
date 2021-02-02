@@ -1,0 +1,6 @@
+.vscode/
+/dist/
+*.egg-info/
+*.pyc
+.coverage
+.lego/
